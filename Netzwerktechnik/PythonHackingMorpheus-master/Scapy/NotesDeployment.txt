@@ -1,0 +1,18 @@
+Windows 10
+
+wird in der Doku erklärt
+python 3.7
+nmap muss auch dazu || mit 802.11 im rollout den MonitorMode hinzufügen
+scapy
+****
+Die Installation wird dann in der Anaconda Konsole durchgeführt => danach ist scapy auch nur auf der Konsole gestartet in der ENV aus dem Projekt "Python Hacking" - Eigene Namensgebung - erreichbar.
+****
+
+
+
+cd Desktop\PythonHacking\PythonHackingMorpheus\Scapy
+scapy
+a=rdpcap("./testwiresharkmuc.pcap")
+a[400]
+
+
