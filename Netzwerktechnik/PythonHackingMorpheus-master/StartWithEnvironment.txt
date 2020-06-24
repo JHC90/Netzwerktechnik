@@ -1,6 +1,0 @@
-Build in Anaconda a Environment based on
-- Python 3.7
-- Start terminal on the new enivronment and insert
- "conda install -c conda-forge pyspark"
-
-https://anaconda.org/conda-forge/pyspark
